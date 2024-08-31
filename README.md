@@ -1,4 +1,4 @@
-# Solar Panel Fault Detection Using Deep Learning
+# Solar Panel Fault Detection Using VGG16
 
 ## Objective
 
